@@ -19,6 +19,7 @@
 		BE3733BF1F166D3D002FF1F6 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE3733BE1F166D3D002FF1F6 /* Pokemon.swift */; };
 		BE3733C21F1675D7002FF1F6 /* PokeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE3733C11F1675D7002FF1F6 /* PokeCell.swift */; };
 		BE3733C41F168035002FF1F6 /* csv.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE3733C31F168035002FF1F6 /* csv.swift */; };
+		BE7B6FA11F17BBB700EF813B /* PokemonDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7B6FA01F17BBB700EF813B /* PokemonDetailVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		BE3733BE1F166D3D002FF1F6 /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Pokemon.swift; path = ../Pokemon.swift; sourceTree = "<group>"; };
 		BE3733C11F1675D7002FF1F6 /* PokeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokeCell.swift; sourceTree = "<group>"; };
 		BE3733C31F168035002FF1F6 /* csv.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = csv.swift; path = ../csv.swift; sourceTree = "<group>"; };
+		BE7B6FA01F17BBB700EF813B /* PokemonDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonDetailVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				BE3733A91F166917002FF1F6 /* ViewController.swift */,
+				BE7B6FA01F17BBB700EF813B /* PokemonDetailVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 				BE3733C21F1675D7002FF1F6 /* PokeCell.swift in Sources */,
 				BE3733AA1F166917002FF1F6 /* ViewController.swift in Sources */,
 				BE3733A81F166917002FF1F6 /* AppDelegate.swift in Sources */,
+				BE7B6FA11F17BBB700EF813B /* PokemonDetailVC.swift in Sources */,
 				BE3733BF1F166D3D002FF1F6 /* Pokemon.swift in Sources */,
 				BE3733C41F168035002FF1F6 /* csv.swift in Sources */,
 			);
