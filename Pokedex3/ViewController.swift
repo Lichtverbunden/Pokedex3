@@ -147,7 +147,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         }
         else
         {
-            musicPlayer.play(atTime: )
+            musicPlayer.play()
             sender.alpha = 1.0
         }
     }
